@@ -8,7 +8,7 @@
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
-      <li><a href="#" target="_blank" rel="noopener">router</a></li>
+      <li><a href="#" target="_blank" rel="noopener">router1</a></li>
       <li><a href="#" target="_blank" rel="noopener">vuex</a></li>
     </ul>
     <h3>Essential Links</h3>
