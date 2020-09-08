@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
-      check out the
+      check out the111
       <a href="#" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <ul>
